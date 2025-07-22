@@ -1,10 +1,10 @@
-# DocSpot-Seamless-Appointment-Booking-System
+# DoctAppointment-Seamless-Appointment-Booking-System
 
-A full-stack web application to help users book doctor appointments online, with real-time scheduling, document uploads, admin approval, and doctor availability management.
+DoctAppointment A full-stack web application to help users book doctor appointments online, with real-time scheduling, document uploads, admin approval, and doctor availability management.
 
 ## Project Overview
 
-DocSpot is a healthcare appointment management system designed to make the process of booking doctor visits quick, easy, and efficient for patients. The platform offers a seamless interface for users (patients), doctors, and admins with features like user authentication, appointment scheduling, admin approval, and medical document uploads.
+DoctAppointment is a healthcare appointment management system designed to make the process of booking doctor visits quick, easy, and efficient for patients. The platform offers a seamless interface for users (patients), doctors, and admins with features like user authentication, appointment scheduling, admin approval, and medical document uploads.
 
 ## Features
 
@@ -38,7 +38,7 @@ DocSpot is a healthcare appointment management system designed to make the proce
 
 ## Folder Structure
 
-doctorapp/
+doctappointment/
 ├── client/ # React frontend
 │ ├── public/
 │ ├── src/
@@ -67,7 +67,7 @@ doctorapp/
 
 ### 1. Clone the repository
 git clone https://github.com/pavankumarnallakkagari/Doct-Appointment
-cd doctorapp
+cd doctappointment
 
 ### 2. Install backend dependencies
 cd server
